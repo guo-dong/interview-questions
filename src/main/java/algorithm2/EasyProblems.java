@@ -509,7 +509,9 @@ public class EasyProblems {
 
 
     /**
-     * 互为镜像2叉数
+     * 对称二叉树
+     * 想象成两个二叉树
+     * https://leetcode.com/problems/symmetric-tree/
      * @param root
      * @return
      */
@@ -526,9 +528,9 @@ public class EasyProblems {
     }
 
     public static void main(String[] args) {
-
         String str = "hello";
         test(str);
+        System.out.println(str);
         System.out.println(str);
     }
 
